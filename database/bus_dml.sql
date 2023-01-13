@@ -1,0 +1,10 @@
+INSERT INTO bus VALUES ("AB-9999","New Delhi","Lucknow","AC","U",55);
+INSERT INTO bus VALUES ("AB-9998","Jaipur","Agra","NAC","L",50);
+INSERT INTO bus VALUES ("AB-9997","New Delhi","Kanpur","AC","U/L",60);
+INSERT INTO bus VALUES ("AB-9996","Hyderabad","Chennai","AC","U/L",54);
+INSERT INTO bus VALUES ("AB-9995","Bangalore","Kochi","NAC","U/L",60);
+INSERT INTO bus VALUES ("AB-9994","Agra","Patna","NAC","U/L",58);
+INSERT INTO bus VALUES ("AB-9993","Ahmedabad","Pune","AC","U/L",50);
+INSERT INTO bus VALUES ("AB-9992","New Delhi","Mumbai","AC","L",50);
+INSERT INTO bus VALUES ("AB-9991","Mumbai","Kolkata","AC","U/L",48);
+INSERT INTO bus VALUES ("AB-9990","Patna","Kolkata","NAC","U/L",56);
